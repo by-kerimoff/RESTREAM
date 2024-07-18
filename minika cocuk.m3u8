@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,CODECS="",RESOLUTION=1024x576
-https://www.minikacocuk.com.tr/webtv/canli-yayin
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,CODECS="",RESOLUTION=640x360
-https://www.minikacocuk.com.tr/webtv/canli-yayin
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w379361961.m3u8?hash=0a117d5decea04dce5fd3aec2bebd7d7
+#EXT-X-STREAM-INF:BANDWIDTH=796000
+https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w379361961.m3u8?hash=0a117d5decea04dce5fd3aec2bebd7d7
